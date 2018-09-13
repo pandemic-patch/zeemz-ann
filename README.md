@@ -2,12 +2,14 @@
 
 *Zeems: The Versipisces Secret* upcoming game release and announcement repository.
 
-*Zeems: The Versipisces Secret* is based off the short story, "[Poseidon Knows]()," written by Monique Finley. The short story takes place at a few hundered years earlier than at the time of the novel, *[Terra Damnata: Book 1 of the Pu'Shing Bhu'Tons series](https://book1.pushingbhutons.com/p/chapters.html).* 
+*Zeems: The Versipisces Secret* game engine (aka "ZeemsCore") is written in Solidity for Ethereum smart contracts and utilizes the LoomSDK for side-chain transactions. This makes Zeems a dual-layer blockchain game.
+
+*Zeems: The Versipisces Secret* is based off the short story, "[Poseidon Knows]()," written by Monique Finley. The short story takes place a few hundered years earlier than at the time of the novel, *[Terra Damnata: Book 1 of the Pu'Shing Bhu'Tons series](https://book1.pushingbhutons.com/p/chapters.html).* 
 
 
 ## Uh... What's that?
 
-Terra Damnata is book 1 of the Pu'Shing Bhu'Tons series by Monique Finley; it is part of a 5 book blog-serial published at the website: pushingbhutons.com. The book's presale will be supported by PBTD token, a blockchain asset redeemable by the hodler or sellable by the trader. For more information about the Pu'Shing Bhu'Tons: Terra Damnata presale token, please go to: [INSERT REPO FOR PBTD TOKEN].
+*[Terra Damnata: Book 1 of the Pu'Shing Bhu'Tons series](https://book1.pushingbhutons.com/p/chapters.html).* is part of a 5 book blog-serial published at the website: www.pushingbhutons.com. The book's presale will be supported by PBTD token, a blockchain asset redeemable by the hodler or sellable by the trader. For more information about the Pu'Shing Bhu'Tons: Terra Damnata presale token, please go to: [INSERT REPO FOR PBTD TOKEN].
 
 ## License
 
