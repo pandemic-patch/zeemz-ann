@@ -1,10 +1,10 @@
-# Zeems Announcement
+# Zeemz Announcement
 
-*Zeems: The Versipisces Secret* upcoming game release and announcement repository.
+*Zeemz: The Versipisces Secret* upcoming game release and announcement repository.
 
-*Zeems: The Versipisces Secret* game engine (aka "ZeemsCore") is written in Solidity for Ethereum smart contracts and utilizes the LoomSDK for side-chain transactions. This makes Zeems a dual-layer blockchain game.
+*Zeemz: The Versipisces Secret* game engine (aka "ZeemsCore") is written in Solidity for Ethereum smart contracts and utilizes the LoomSDK for side-chain transactions. This makes Zeems a dual-layer blockchain game.
 
-*Zeems: The Versipisces Secret* is based off the short story, "[Poseidon Knows]()," written by Monique Finley. The short story takes place a few hundered years earlier than at the time of the novel, *[Terra Damnata: Book 1 of the Pu'Shing Bhu'Tons series](https://book1.pushingbhutons.com/p/chapters.html).* 
+*Zeemz: The Versipisces Secret* is based off the short story, "[Poseidon Knows]()," written by Monique Finley. The short story takes place a few hundered years earlier than at the time of the novel, *[Terra Damnata: Book 1 of the Pu'Shing Bhu'Tons series](https://book1.pushingbhutons.com/p/chapters.html).* 
 
 
 ## Uh... What's that?
@@ -13,7 +13,7 @@
 
 ## License
 
-*Zeems: The Versipisces Secret* is Copyright (c) 2018 Monique Finley. All Rights Reserved. <br />
+*Zeemz: The Versipisces Secret* is Copyright (c) 2018 Monique Finley. All Rights Reserved. <br />
 *The Pu'Shing Bhu'Tons Series* is Copyright (c) 2018 Monique Finley. All Rights Reserved. <br />
 
 
@@ -25,8 +25,8 @@ CryptoKitties is Copyright (c) 2018 Axiom Zen. All Rights Reserved.<br />
 
 ## TODO
 - Add "Poseidon Knows" to repo.
-- Add Zeems source code.
+- Add Zeemz source code and build instructions
 - Add open source license for stuff that's open source.
 - Create PBTD token repo, add link to this repo.
-- Start wiki 
+- Move wiki from gSites to this repo 
 - finish todo -- night all
