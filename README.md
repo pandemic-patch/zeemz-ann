@@ -40,7 +40,7 @@ CryptoKitties is Copyright (c) 2018 Axiom Zen. All Rights Reserved.<br />
 
 
 ## TODO
-- Add "Poseidon Knows" to repo.
+~~- Add "Poseidon Knows" to repo.~~
 - Add Zeemz source code and build instructions
 - Add open source license for stuff that's open source.
 - Create PBTD token repo, add link to this repo.
