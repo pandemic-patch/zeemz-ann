@@ -21,10 +21,10 @@ Zeemz is a multi-blockchain digital trading card game. We're using Ethereum for 
 *Zeemz* is definitely cool! And, we love help. We're building a badass website for Zeemz and it'll contain a page with information for volunteers. We've figured out a few areas that'll need "VoluntZeemz." But, we don't want something for nothing. VoluntZeemz will be able to earn PBTD for their contributions. Volunteers gain access to a side game where every contribution builds their ZeemzSKLZ, gains them ZeemzEXP, finds them ZeemzFOOD, and even shares secrets, erhem, ZeemzKB. Did I mention that these special volunteers will be able to use their VoluntZeemz in the finished Zeemz game? Yep, VoluntZeemz get a free Zeemz as Thank You for their efforts.
 
 ### VoluntZeemz : ZeemzSKLZ : Description
-CopyZeemz : Exemplator : For editors, translators, marketers, and those with a WORD fetish 
-BugZeemz : Culex : For button pressers, click happy hackers, bughunters, and those taking a kill'em BUGS approach  
-DevZeemz : Aedificator : For coders, programmers, and those pros that prefer to kick CODE ass
-ModZeemz : Moderator : For MODS, masters, and those that have the urge for answering Qs "that ain't in the FAQs" (i.e. forums)
+CopyZeemz : Exemplator : For editors, translators, marketers, and those with a WORD fetish <br />
+BugZeemz : Culex : For button pressers, click happy hackers, bughunters, and those taking a kill'em BUGS approach <br />  
+DevZeemz : Aedificator : For coders, programmers, and those pros that prefer to kick CODE ass<br />
+ModZeemz : Moderator : For MODS, masters, and those that have the urge for answering Qs "that ain't in the FAQs" (i.e. forums)<br />
 
 
 ## License
