@@ -8,7 +8,7 @@ Huh?
 
 Zeemz is a multi-blockchain digital trading card game. We're using Ethereum for P2P transactions, ownership records, and other TBD functions that rightly ought to run on the Ethereum mainnet as they're less frequent (more permanent) transactions. For constantly changing (uber dynamic) transactions (equipping/unequipping, potions, in-battle actions, in-game items) we'll utilize LoomSDK.    
 
-*Zeemz: The Versipisces Secret* is based-off the short story, "[Poseidon Knows]()," written by Monique Finley. The short story takes place a few hundered years before the time of the novel, *[Terra Damnata: Book 1 of the Pu'Shing Bhu'Tons series](https://book1.pushingbhutons.com/p/chapters.html).* 
+*Zeemz: The Versipisces Secret* is based-off the short story, "[Poseidon Knows](https://github.com/pushingbhutons/zeemz-ann/blob/master/Poseidon%20Knows.doc)," written by Monique Finley. The short story takes place a few hundered years before the time of the novel, *[Terra Damnata: Book 1 of the Pu'Shing Bhu'Tons series](https://book1.pushingbhutons.com/p/chapters.html).* 
 
 
 ## Uh... What's that? a novel?
