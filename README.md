@@ -30,7 +30,7 @@ For more information about the Pu'Shing Bhu'Tons: Terra Damnata presale token, p
 
 ## Zeemz are so freakin' cool! I wanna help!!
 
-*Zeemz* is definitely cool! And, we love help. We're building a badass website for Zeemz and it'll contain a page with information for volunteers. We've figured out a few areas that'll need "VoluntZeemz." But, we don't want something for nothing. VoluntZeemz will be able to earn PBTD for their contributions. Volunteers gain access to a side game where every contribution builds their ZeemzSKLZ, gains them ZeemzEXP, finds them ZeemzFOOD, and even shares secrets, erhem, ZeemzKB. Did I mention that these special volunteers will be able to use their VoluntZeemz in the finished Zeemz game? Yep, VoluntZeemz get a free Zeemz as Thank You for their efforts.
+*Zeemz* is definitely cool! And, we love help. We're building a badass website for Zeemz and it'll contain a page with information for volunteers. We've figured out a few areas that'll need "VoluntZeemz." But, we don't want something for nothing. VoluntZeemz will be able to earn PBTD points for their contribution, these points will be redeemable for PBTD tokens. Volunteers also gain access to a side game where every contribution builds their ZeemzSKLZ, gains them ZeemzEXP, finds them ZeemzFOOD, and even shares secrets, erhem, ZeemzKB. Did I mention that these special volunteers will be able to use their VoluntZeemz in the finished Zeemz game? Yep, VoluntZeemz get a free Zeemz as Thank You for their efforts.
 
 ### VoluntZeemz : ZeemzSKLZ : Description
 CopyZeemz : Exemplator : For editors, translators, marketers, and those with a WORD fetish <br />
@@ -50,6 +50,7 @@ ModZeemz : Moderator : For MODS, masters, and those that have the urge for answe
 
 CryptoZombies is Copyright (c) 2018 Loom Network. All Rights Reserved.<br />
 CryptoKitties is Copyright (c) 2018 Axiom Zen. All Rights Reserved.<br />
+- NTF ERC-721 License - [Nifty License by CryptoKitties](https://www.niftylicense.org/license)<br />
 Ethereum / Solidity uses GNU General Public License v3.0 2018.<br />
 
 NOTE: If you think I'm missing a license, put in a pull request with your reasoning and a link to the appropriate license. If alls well, I'll commit the change. 
