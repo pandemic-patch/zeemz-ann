@@ -1,4 +1,4 @@
-Zeemz and the Pu'Shing Bhu'Tons series are:
+*Zeemz: The Versipisces Secret* and *The Pu'Shing Bhu'Tons Series* are:
 
 © Copyright 2018 Monique Finley. All rights reserved.
 
