@@ -41,9 +41,9 @@ ModZeemz : Moderator : For MODS, masters, and those that have the urge for answe
 
 ## License
 
-*Zeemz: The Versipisces Secret* is Copyright (c) 2018 Monique Finley. All Rights Reserved. <br />
-"Poseidon Knows" is Copyright (c) 2018 Monique Finley. All Rights Reserved. <br />
-*The Pu'Shing Bhu'Tons Series* is Copyright (c) 2018 Monique Finley. All Rights Reserved. <br />
+*Zeemz: The Versipisces Secret* is Copyright (c) 2018 - 2019 Monique Finley. All Rights Reserved. <br />
+"Poseidon Knows" is Copyright (c) 2016 - 2019 Monique Finley. All Rights Reserved. <br />
+*The Pu'Shing Bhu'Tons Series* is Copyright (c) 2015 - 2019 Monique Finley. All Rights Reserved. <br />
 
 
 ## 3rd Party Licenses
