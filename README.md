@@ -51,7 +51,6 @@ Earn PBTD, PBIF, PBAE, ZMZB, and ZMZLR while playing a first of it's kind, Choos
 *Zeemz* is definitely cool! And, we love help. We're building a badass website for Zeemz and it'll contain a page with information for volunteers. We've figured out a few areas that'll need "VoluntZeemz." But, we don't want something for nothing. VoluntZeemz will be able to earn PBTD points for their contribution, these points will be redeemable for PBTD tokens. Volunteers also gain access to a side game where every contribution builds their ZeemzSKLZ, gains them ZeemzEXP, finds them ZeemzFOOD, and even shares secrets, erhem, ZeemzKB. Did I mention that these special volunteers will be able to use their VoluntZeemz in the finished Zeemz game? Yep, VoluntZeemz get a free Zeemz as Thank You for their efforts.
 
 **If you code Solidity, JS, HTML, CSS or Comprehend the Finer Points of Github**
-
 *HELP! Please. I'll be putting all the ZEEMZ game logic onto Rinkeby Testnet and connecting the website walkthrough as a demo. If you want to test it, you'll be able to earn cyber-acres of ZMZB & ZMZLR by putting in Pull Requests with your testnet findings. These tokens are given out through the Zeemz Land Registry to VoluntZeemz. The ZMZB & ZMZLR tokens will soon be available for sale on the Pu'Shing Bhu'Tons website. One cyber-acre entitles the holder to full Zeemz Citienship & Voting Rights, a Zeemz Property Deed, and membership in the Zeemz Landed Gentry Association.*   
 
 ### VoluntZeemz : ZeemzSKLZ : Description
@@ -60,7 +59,9 @@ BugZeemz : Culex : For button pressers, click happy hackers, bughunters, and tho
 DevZeemz : Aedificator : For coders, programmers, and those pros that prefer to kick CODE ass<br />
 ModZeemz : Moderator : For MODS, masters, and those that have the urge for answering Qs "that ain't in the FAQs" (i.e. forums)<br />
 
-The game has to be made, so this section is very much in the 'coming soon' category.
+The game has to be made, so this section is very much in the 'coming soon' category. Want to speed up development? 
+DEV ETH Donations: [0x54dd3364BE1816A7717D60ac6EF3a0E1B06Bf167](https://etherscan.io/address/0x54dd3364be1816a7717d60ac6ef3a0e1b06bf167) 
+
 
 ## License
 
@@ -86,4 +87,5 @@ NOTE: If you think I'm missing a license, put in a pull request with your reason
 - Create PBTD token repo, add link to this repo.
 - Move wiki from gSites to this repo 
 - create VoluntZeemz page on Zeemz site
+- add links to development donations, support, and volunteer pages
 - finish todo -- night all
