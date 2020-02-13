@@ -23,7 +23,7 @@ The PBTD token is a novel key that will open the "Terra Damnata Alpha Portal" (T
 ### But, Book 1 is already online...
 Yes, you can read the original FREE blog-serial online right now. I'd totally dig it if you did read it. :D
 
-The *Terra Damnata* novel will be a different reading experience from the blog. Think of the difference between "Cut for TV with Commercials and a 2 hour time slot" and "full Director's Extended Edition with Never Before Seen footage." ;)   
+The [*Terra Damnata*](book1.pushingbhutons.com) novel will be a different reading experience from the blog. Think of the difference between "Cut for TV with Commercials and a 2 hour time slot" and "full Director's Extended Edition with Never Before Seen footage." ;)   
 
 For more information about the Pu'Shing Bhu'Tons: Terra Damnata presale token, please go to: [INSERT REPO FOR PBTD TOKEN - COMING SOON].
 
@@ -44,6 +44,9 @@ Recently discovered cyber-acerage available through the Zeemz Bathymetry & Land 
 
 ### COMING SOON: ZEEMZ Webserial Adventure Faucet
 Earn PBTD, PBIF, PBAE, ZMZB, and ZMZLR while playing a first of it's kind, Choose-Your-Own-Adventure blockchain game and cryptocurrency faucet. 
+
+The sneak peek is ready! Sign-up for pre-Alpha:
+[zeemz.xyz](https://www.zeemz.xyz) 
 
 
 ## Zeemz are so freakin' cool! I wanna help!!
