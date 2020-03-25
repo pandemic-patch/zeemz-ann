@@ -43,7 +43,7 @@ Recently discovered cyber-acerage available through the Zeemz Bathymetry & Land 
 [10,000,000 ZMZLR](https://etherscan.io/token/0x97971e65a8a1506d56e841344b782e5e2d5fae1c)<br />
 
 ### COMING SOON: ZEEMZ Webserial Adventure Faucet
-Earn PBTD, PBIF, PBAE, ZMZB, and ZMZLR while playing a first of it's kind, Choose-Your-Own-Adventure blockchain game and cryptocurrency faucet. 
+Earn PBTD, PBIF, PBAE, ZMZB, and ZMZLR while playing a first of it's kind, Choose-Your-Own-Adventure blockchain game and cryptocurrency faucet. The frontend is built. We're fine-tuning the backend. Check out the 1st faucet: [Quicksand](https://faucet.zeemz.xyz). NOTE: It doesn't work, yet!
 
 The sneak peek is ready! Sign-up for pre-Alpha:
 [zeemz.xyz](https://www.zeemz.xyz) 
