@@ -6,7 +6,7 @@
 
 ### Huh?
 
-Zeemz is a multi-blockchain digital trading card game. We're using Ethereum for P2P transactions, ownership records, and other TBD functions that rightly ought to run on the Ethereum mainnet as they're less frequent (more permanent) transactions. For constantly changing (uber dynamic) transactions (equipping/unequipping, potions, in-battle actions, in-game items) we'll utilize LoomSDK.    
+Zeemz is a multi-blockchain augmented reality digital trading card game. We're using Ethereum for P2P transactions, ownership records, and other TBD functions that rightly ought to run on the Ethereum mainnet as they're less frequent (more permanent) transactions. For constantly changing (uber dynamic) transactions (equipping/unequipping, potions, in-battle actions, in-game items) we'll utilize LoomSDK.    
 
 *Zeemz: The Versipisces Secret* is based-off the short story, "[Poseidon Knows](https://github.com/pushingbhutons/zeemz-ann/blob/master/Poseidon%20Knows.doc)," written by Monique Finley. The short story takes place a few hundered years before the time of the novel, *[Terra Damnata: Book 1 of the Pu'Shing Bhu'Tons series](https://book1.pushingbhutons.com/p/chapters.html).* 
 
@@ -68,7 +68,8 @@ DEV ETH Donations: [0x54dd3364BE1816A7717D60ac6EF3a0E1B06Bf167](https://ethersca
 
 ## License
 
-*Zeemz: The Versipisces Secret* is Copyright (c) 2018 - 2020 Monique Finley. All Rights Reserved. <br />
+*Zeemz: The Versipisces Secret* is Copyright (c) 2018 - 2020 Monique Finley and Jennifer Landry. All Rights Reserved. <br />
+*The Pu'Shing Bhu'Tons 'Verse* (c) 2015 - 2020 Monique Finley and Jennifer Landry. All Rights Reserved. <br />
 "Poseidon Knows" is Copyright (c) 2016 - 2020 Monique Finley. All Rights Reserved. <br />
 *The Pu'Shing Bhu'Tons Series* is Copyright (c) 2015 - 2020 Monique Finley. All Rights Reserved. <br />
 
