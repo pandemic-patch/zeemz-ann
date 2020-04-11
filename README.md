@@ -1,6 +1,11 @@
 # Zeemz Announcement
+## Zeemz: Pandemic Patch
+The Zeemz Team is taking on CoVID-19. We're going to reduce hospital congestion through gameplay. We're working with the doctors from askco19.com, to integrate their ASK token into the ZEEMZ: Multifaucet Adventure Series. 
 
-*Zeemz: The Versipisces Secret* upcoming game release and announcement repository.
+Details about the build are coming soon!  
+
+## Zeemz: The Versipisces Secret
+*Zeemz: The Versipisces Secret* game release and announcement repository.
 
 *Zeemz: The Versipisces Secret* game engine (aka "ZeemzCore") is written in Solidity for Ethereum smart contracts and utilizes the LoomSDK for side-chain transactions. 
 
