@@ -4,6 +4,13 @@ The Zeemz Team is taking on CoVID-19. We're going to reduce hospital congestion 
 
 Details about the build are coming soon!  
 
+### COMING SOON: ZEEMZ Webserial Adventure Faucet
+Earn PBTD, PBIF, PBAE, ZMZB, and ZMZLR while playing a first of it's kind, Choose-Your-Own-Adventure blockchain game and cryptocurrency faucet. The frontend is built. We're fine-tuning the backend. Check out the 1st faucet: [Quicksand](https://faucet.zeemz.xyz). NOTE: It doesn't work, yet!
+
+The sneak peek is ready! Sign-up for pre-Alpha:
+[zeemz.xyz](https://www.zeemz.xyz) 
+
+
 ## Zeemz: The Versipisces Secret
 *Zeemz: The Versipisces Secret* game release and announcement repository.
 
@@ -47,11 +54,6 @@ Recently discovered cyber-acerage available through the Zeemz Bathymetry & Land 
 [10,000,000 ZMZB](https://etherscan.io/token/0xffcf27ced025f30324be76b54192df40028e1f9c)<br />
 [10,000,000 ZMZLR](https://etherscan.io/token/0x97971e65a8a1506d56e841344b782e5e2d5fae1c)<br />
 
-### COMING SOON: ZEEMZ Webserial Adventure Faucet
-Earn PBTD, PBIF, PBAE, ZMZB, and ZMZLR while playing a first of it's kind, Choose-Your-Own-Adventure blockchain game and cryptocurrency faucet. The frontend is built. We're fine-tuning the backend. Check out the 1st faucet: [Quicksand](https://faucet.zeemz.xyz). NOTE: It doesn't work, yet!
-
-The sneak peek is ready! Sign-up for pre-Alpha:
-[zeemz.xyz](https://www.zeemz.xyz) 
 
 
 ## Zeemz are so freakin' cool! I wanna help!!
