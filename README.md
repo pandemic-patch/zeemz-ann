@@ -2,10 +2,12 @@
 ## Zeemz: Pandemic Patch
 The Zeemz Team is taking on CoVID-19. We're going to reduce hospital congestion through gameplay. We're working with the doctors from askco19.com, to integrate their ASK token into the ZEEMZ: Multifaucet Adventure Series. 
 
+[Pandemic Patch](https://www.zeemz.xyz/pandemic-patch)
+
 Details about the build are coming soon!  
 
 ### COMING SOON: ZEEMZ Webserial Adventure Faucet
-Earn PBTD, PBIF, PBAE, ZMZB, and ZMZLR while playing a first of it's kind, Choose-Your-Own-Adventure blockchain game and cryptocurrency faucet. The frontend is built. We're fine-tuning the backend. Check out the 1st faucet: [Quicksand](https://faucet.zeemz.xyz). NOTE: It doesn't work, yet!
+Earn PBTD, PBIF, PBAE, ZMZB, and ZMZLR while playing a first of it's kind, Choose-Your-Own-Adventure blockchain game and cryptocurrency faucet. The frontend is being rebuilt while we fine-tune the backend. Check out the 1st faucet: [Quicksand](https://faucet.zeemz.xyz). NOTE: It doesn't work, yet!
 
 The sneak peek is ready! Sign-up for pre-Alpha:
 [zeemz.xyz](https://www.zeemz.xyz) 
